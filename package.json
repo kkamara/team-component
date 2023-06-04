@@ -1,6 +1,6 @@
 {
-  "name": "team-section",
-  "homepage": "https://kkamara.github.io/team-section",
+  "name": "team-component",
+  "homepage": "https://kkamara.github.io/team-component",
   "version": "0.1.0",
   "private": true,
   "scripts": {
