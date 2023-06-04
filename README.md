@@ -1,4 +1,4 @@
-# Team Section
+# Team Component
 
 ## Installation
 
