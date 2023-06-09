@@ -1,3 +1,5 @@
+<img src="https://github.com/kkamara/useful/raw/main/team-component.png" alt="team-component.png"/>
+
 # Team Component
 
 ## Installation
